@@ -41,6 +41,7 @@
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saipandu00/Leetcode-CPP/tree/master/0704-binary-search) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/saipandu00/Leetcode-CPP/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
