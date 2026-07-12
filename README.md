@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
@@ -33,6 +34,7 @@
 | [0014-longest-common-prefix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saipandu00/Leetcode-CPP/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saipandu00/Leetcode-CPP/tree/master/0162-find-peak-element) |
@@ -81,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
