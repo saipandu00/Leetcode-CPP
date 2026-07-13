@@ -44,6 +44,7 @@
 | [0875-koko-eating-bananas](https://github.com/saipandu00/Leetcode-CPP/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipandu00/Leetcode-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saipandu00/Leetcode-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/saipandu00/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Trie
 |  |
@@ -88,6 +89,7 @@
 | [0875-koko-eating-bananas](https://github.com/saipandu00/Leetcode-CPP/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipandu00/Leetcode-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saipandu00/Leetcode-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/saipandu00/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
