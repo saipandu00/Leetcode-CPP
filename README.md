@@ -22,6 +22,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saipandu00/Leetcode-CPP/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
+| [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saipandu00/Leetcode-CPP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saipandu00/Leetcode-CPP/tree/master/0875-koko-eating-bananas) |
@@ -90,6 +92,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saipandu00/Leetcode-CPP/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saipandu00/Leetcode-CPP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saipandu00/Leetcode-CPP/tree/master/0875-koko-eating-bananas) |
@@ -116,4 +119,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
