@@ -52,6 +52,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipandu00/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saipandu00/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1901-find-a-peak-element-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
+| [1901-find-a-peak-element-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saipandu00/Leetcode-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipandu00/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saipandu00/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
