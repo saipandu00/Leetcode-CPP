@@ -14,6 +14,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/saipandu00/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -60,6 +61,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
