@@ -35,6 +35,7 @@
 | [0014-longest-common-prefix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saipandu00/Leetcode-CPP/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
@@ -83,6 +85,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saipandu00/Leetcode-CPP/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saipandu00/Leetcode-CPP/tree/master/0162-find-peak-element) |
