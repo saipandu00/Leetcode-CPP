@@ -69,6 +69,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,4 +164,5 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
