@@ -19,6 +19,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saipandu00/Leetcode-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/saipandu00/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -57,6 +58,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saipandu00/Leetcode-CPP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saipandu00/Leetcode-CPP/tree/master/0875-koko-eating-bananas) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipandu00/Leetcode-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saipandu00/Leetcode-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipandu00/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -198,6 +200,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +242,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/saipandu00/Leetcode-CPP/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -246,4 +251,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
