@@ -28,6 +28,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/saipandu00/Leetcode-CPP/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/saipandu00/Leetcode-CPP/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/saipandu00/Leetcode-CPP/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saipandu00/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -295,9 +296,11 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saipandu00/Leetcode-CPP/tree/master/0258-add-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saipandu00/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saipandu00/Leetcode-CPP/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/saipandu00/Leetcode-CPP/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
