@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@
 | [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saipandu00/Leetcode-CPP/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
