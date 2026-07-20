@@ -11,6 +11,7 @@
 | [0412-fizz-buzz](https://github.com/saipandu00/Leetcode-CPP/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/saipandu00/Leetcode-CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/saipandu00/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
@@ -21,6 +22,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saipandu00/Leetcode-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/saipandu00/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 ## Math
@@ -37,6 +39,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/saipandu00/Leetcode-CPP/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/saipandu00/Leetcode-CPP/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -192,6 +195,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saipandu00/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
