@@ -37,6 +37,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/saipandu00/Leetcode-CPP/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/saipandu00/Leetcode-CPP/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
@@ -58,6 +59,7 @@
 | [0014-longest-common-prefix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saipandu00/Leetcode-CPP/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/saipandu00/Leetcode-CPP/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -195,6 +197,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/saipandu00/Leetcode-CPP/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
