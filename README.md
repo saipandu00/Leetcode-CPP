@@ -62,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/saipandu00/Leetcode-CPP/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saipandu00/Leetcode-CPP/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/saipandu00/Leetcode-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/saipandu00/Leetcode-CPP/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
@@ -178,6 +179,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/saipandu00/Leetcode-CPP/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saipandu00/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/saipandu00/Leetcode-CPP/tree/master/0148-sort-list) |
