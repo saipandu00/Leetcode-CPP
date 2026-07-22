@@ -82,6 +82,7 @@
 | [0704-binary-search](https://github.com/saipandu00/Leetcode-CPP/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/saipandu00/Leetcode-CPP/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/saipandu00/Leetcode-CPP/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/saipandu00/Leetcode-CPP/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipandu00/Leetcode-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saipandu00/Leetcode-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -135,6 +136,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/saipandu00/Leetcode-CPP/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/saipandu00/Leetcode-CPP/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
