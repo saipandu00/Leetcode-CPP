@@ -94,6 +94,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1901-find-a-peak-element-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saipandu00/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3693-climbing-stairs-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/saipandu00/Leetcode-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saipandu00/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3693-climbing-stairs-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
