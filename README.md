@@ -82,6 +82,7 @@
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saipandu00/Leetcode-CPP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saipandu00/Leetcode-CPP/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/saipandu00/Leetcode-CPP/tree/master/0704-binary-search) |
@@ -240,6 +241,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/saipandu00/Leetcode-CPP/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saipandu00/Leetcode-CPP/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saipandu00/Leetcode-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -378,4 +380,16 @@
 | ------- |
 | [0207-course-schedule](https://github.com/saipandu00/Leetcode-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
