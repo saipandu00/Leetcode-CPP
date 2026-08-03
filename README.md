@@ -71,6 +71,7 @@
 | [0088-merge-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/saipandu00/Leetcode-CPP/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/saipandu00/Leetcode-CPP/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saipandu00/Leetcode-CPP/tree/master/0162-find-peak-element) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saipandu00/Leetcode-CPP/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/saipandu00/Leetcode-CPP/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/saipandu00/Leetcode-CPP/tree/master/0300-longest-increasing-subsequence) |
