@@ -55,6 +55,7 @@
 | [0189-rotate-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/saipandu00/Leetcode-CPP/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saipandu00/Leetcode-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [1539-kth-missing-positive-number](https://github.com/saipandu00/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1901-find-a-peak-element-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saipandu00/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3693-climbing-stairs-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Trie
@@ -205,6 +207,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipandu00/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saipandu00/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [0455-assign-cookies](https://github.com/saipandu00/Leetcode-CPP/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saipandu00/Leetcode-CPP/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,6 +250,7 @@
 | [0678-valid-parenthesis-string](https://github.com/saipandu00/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saipandu00/Leetcode-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/saipandu00/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3693-climbing-stairs-ii](https://github.com/saipandu00/Leetcode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
@@ -392,4 +397,20 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0494-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saipandu00/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
