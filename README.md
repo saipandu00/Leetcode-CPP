@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saipandu00/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saipandu00/Leetcode-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/saipandu00/Leetcode-CPP/tree/master/0035-search-insert-position) |
@@ -176,6 +177,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/saipandu00/Leetcode-CPP/tree/master/0205-isomorphic-strings) |
