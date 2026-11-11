@@ -115,6 +115,7 @@
 | [0100-same-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saipandu00/Leetcode-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saipandu00/Leetcode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -145,6 +146,7 @@
 | [0101-symmetric-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/saipandu00/Leetcode-CPP/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/saipandu00/Leetcode-CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/saipandu00/Leetcode-CPP/tree/master/0200-number-of-islands) |
@@ -272,6 +274,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saipandu00/Leetcode-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saipandu00/Leetcode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -305,6 +308,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saipandu00/Leetcode-CPP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saipandu00/Leetcode-CPP/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saipandu00/Leetcode-CPP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saipandu00/Leetcode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/saipandu00/Leetcode-CPP/tree/master/0129-sum-root-to-leaf-numbers) |
